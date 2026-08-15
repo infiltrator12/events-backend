@@ -1,0 +1,1 @@
+This contains your data structures annotated with @Entity, representing the tables in your PostgreSQL database.
