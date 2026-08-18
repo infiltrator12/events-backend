@@ -57,4 +57,13 @@ public class TicketType {
 
     public int getQuantitySold() { return quantitySold; }
     public void setQuantitySold(int quantitySold) { this.quantitySold = quantitySold; }
+
+    public String getDescription() { return description; }
+    public void setDescription(String description) { this.description = description; }
+
+    public String getCurrency() { return currency; }
+    public void setCurrency(String currency) { this.currency = currency; }
+
+    public int getQuantityHeld() { return quantityHeld; }
+    public void setQuantityHeld(int quantityHeld) { this.quantityHeld = quantityHeld; }
 }
